@@ -10,7 +10,7 @@ SystemVerilog.
 The following diagram shows the complete architecture of the
 RV32I single-cycle processor.
 
-![RISC-V Processor Architecture](RISC-V_single_cycle_complete_(RV32I)/Diagrams/Screenshot From 2026-08-19 20-48-52.png)
+![RISC-V Processor Architecture](Diagrams/Screenshot From 2026-08-19 20-48-52.png)
 
 ---
 
